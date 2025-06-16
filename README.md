@@ -4,7 +4,7 @@
 This project demonstrates end-to-end data analysis on Blinkit sales data using **SQL** for data processing and **Power BI** for visual analytics. The goal is to derive meaningful insights into product sales, customer preferences, and performance trends across various dimensions.
 
 ## Tools Used
-- SQL (PostgreSQL) – For data cleaning, transformation, and exploration.
+- SQL  – For data cleaning, transformation, and exploration.
 - Power BI – For creating interactive dashboards and visual storytelling.
 
 ## Project Structure
