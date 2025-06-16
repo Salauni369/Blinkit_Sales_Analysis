@@ -1,4 +1,3 @@
-
 # Blinkit Sales Analysis Project
 
 ## Project Overview
